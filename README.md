@@ -99,6 +99,3 @@ I'm on a journey to become a full-stack developer — learning by solving real p
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rendiwidyanggita)
 
 ---
-<div align="center">
-  <sub>Made with ❤️ by Rendi Widya Anggita</sub>
-</div>
