@@ -32,16 +32,6 @@ I'm on a journey to become a full-stack developer — learning by solving real p
       <p>Buying hiking gear online often means juggling multiple marketplaces with no clear product info or order visibility. Summit Gear solves this with a dedicated e-commerce platform where customers can browse a curated catalog, add to cart, and track order history — all in one place. Admins get full control over products, customers, and income summary.</p>
     </td>
     <td width="50%" valign="top">
-      <h4>⛺ <a href="https://github.com/Jawir-Redemption/Summit-Wir">Annapurna-rent</a></h4>
-      <img src="https://img.shields.io/badge/Rental%20System-FF2D20?style=flat-square&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white"/>
-      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-      <br/><br/>
-      <p>Renting hiking gear used to mean phone calls, uncertain availability, and manual invoicing. Annapurna-rent provides a self-service rental platform with per-day pricing, automatic late fee calculation, file uploads for product images and customer identity, and strict customer/admin role separation for controlled data management.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
       <h4>🌍 <a href="https://github.com/rendiwidyanggita/GhinaTourTravel">GhinaTourTravel</a></h4>
       <img src="https://img.shields.io/badge/Travel%20Agency-16A34A?style=flat-square&logoColor=white"/>
       <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white"/>
@@ -49,11 +39,13 @@ I'm on a journey to become a full-stack developer — learning by solving real p
       <br/><br/>
       <p>Designed to eliminate the operational chaos of running a small travel agency. Customers explore packages with full itinerary, facilities, and destinations, then book via WhatsApp. Admins get a unified dashboard with advanced filtering by name, invoice, status, and date — plus a built-in rule-based chatbot to query order status or package info instantly.</p>
     </td>
+  </tr>
+  <!-- <tr>
+  
     <td width="50%" valign="top">
     </td>
-  </tr>
+  </tr> -->
 </table>
-
 ---
 
 ## 🛠️ Tech Stack
