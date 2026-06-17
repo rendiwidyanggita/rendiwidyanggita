@@ -83,7 +83,7 @@ Designed to eliminate the operational chaos of running a small travel agency. Cu
 
 ---
 
-## 🔗 Links
+## 🔗 Connect
 
 <!-- 
   PORTFOLIO — Uncomment and replace the URL below once your portfolio site is live:
@@ -91,10 +91,6 @@ Designed to eliminate the operational chaos of running a small travel agency. Cu
 -->
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rendi-widya-anggita)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rendiwidyanggita)
-
----
-
-<div align="center">
-  <sub>Made with ❤️ by Rendi Widya Anggita</sub>
-</div>
+<!-- 
+  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rendiwidyanggita)
+-->
