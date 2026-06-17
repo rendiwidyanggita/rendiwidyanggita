@@ -1,22 +1,19 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3500&pause=700&color=1E90FF&center=true&vCenter=true&width=600&lines=Rendi+Widya+Anggita;Debugging+Problems%2C+Building+Solutions.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3500&pause=700&color=1E90FF&center=true&vCenter=true&width=600&lines=Rendi+Widya+Anggita;Debugging+Problems%2C+Building+Solutions)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-## About Me
+## 🧭 About Me
 
-I'm a web developer who genuinely enjoys turning real-world problems into clean, working solutions. From cashier systems to rental platforms and travel agency tools, I love the process of designing something that actually makes people's workflows easier. Currently leveling up from server-side PHP/Laravel roots toward modern full-stack development with React and Next.js.
+I'm on a journey to become a full-stack developer — learning by solving real problems with code, one project at a time. I enjoy the process of turning messy workflows into clean, working systems. Currently exploring AI: from tools to the concepts behind how it actually works.
 
-- 🎯 Focus area: Full-Stack Web Development
-- 🌱 Journey: PHP → Laravel → Bootstrap → JavaScript → React → Next.js & TypeScript
-- 💡 I build things that solve problems — not just things that look good
-- 📍 Based in Purbalingga, Central Java, Indonesia
-
----
-
+- 🎯 **Focus:** Full-Stack Web Development
+- 🌱 **Journey:** PHP → Laravel → JavaScript → React → Next.js & TypeScript
+- 🤖 **Exploring:** AI tools & concepts
+- 📍 **Based in** Purbalingga, Central Java, Indonesia
 - 🎓 Telkom University Purwokerto — Informatics Engineering
 - 💼 Open to internship & collaboration opportunities
 
@@ -56,34 +53,42 @@ I'm a web developer who genuinely enjoys turning real-world problems into clean,
 
 ## 🚀 Highlight Projects
 
-### 🏔️ [Summit Gear](https://github.com/rendiwidyanggita/Summit-App)
-> **Hiking Gear E-Commerce** — A modern online store built for outdoor enthusiasts to shop gear with ease.
-
-Buying hiking gear online often means juggling multiple marketplaces with no clear product information or order visibility. Summit Gear solves this with a dedicated e-commerce platform where customers can browse a curated catalog, add multiple items to cart, and track their order history — all in one place. Admins get a dashboard with full control over products, customers, and income summary, replacing scattered spreadsheets with a single source of truth.
-
-`Next.js` `React` `TypeScript` `Prisma` `PostgreSQL` `Tailwind CSS`
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🏔️ <a href="https://github.com/rendiwidyanggita/Summit-App">Summit Gear</a></h4>
+      <img src="https://img.shields.io/badge/E--Commerce-1E90FF?style=flat-square&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+      <br/><br/>
+      <p>Buying hiking gear online often means juggling multiple marketplaces with no clear product info or order visibility. Summit Gear solves this with a dedicated e-commerce platform where customers can browse a curated catalog, add to cart, and track order history — all in one place. Admins get full control over products, customers, and income summary.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h4>⛺ <a href="https://github.com/Jawir-Redemption/Summit-Wir">Annapurna-rent</a></h4>
+      <img src="https://img.shields.io/badge/Rental%20System-FF2D20?style=flat-square&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white"/>
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+      <br/><br/>
+      <p>Renting hiking gear used to mean phone calls, uncertain availability, and manual invoicing. Annapurna-rent provides a self-service rental platform with per-day pricing, automatic late fee calculation, file uploads for product images and customer identity, and strict customer/admin role separation for controlled data management.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🌍 <a href="https://github.com/rendiwidyanggita/GhinaTourTravel">GhinaTourTravel</a></h4>
+      <img src="https://img.shields.io/badge/Travel%20Agency-16A34A?style=flat-square&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white"/>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+      <br/><br/>
+      <p>Designed to eliminate the operational chaos of running a small travel agency. Customers explore packages with full itinerary, facilities, and destinations, then book via WhatsApp. Admins get a unified dashboard with advanced filtering by name, invoice, status, and date — plus a built-in rule-based chatbot to query order status or package info instantly.</p>
+    </td>
+    <td width="50%" valign="top">
+    </td>
+  </tr>
+</table>
 
 ---
 
-### ⛺ [Annapurna-rent](https://github.com/Jawir-Redemption/Summit-Wir)
-> **Hiking Equipment Rental System** — A complete rental workflow for both customers and operators.
-
-Renting hiking gear used to mean phone calls, uncertain availability, and manual invoicing. Annapurna-rent tackles this with a self-service rental platform where customers can register, browse available equipment, rent multiple items with per-day pricing, and check their rental history. The admin panel automatically calculates rental duration and late fees, handles file uploads for product images and customer identity documents, and enforces a strict customer/admin role separation for controlled data management.
-
-`Laravel` `PHP` `MySQL` `Bootstrap` `Laravel Auth`
-
----
-
-### 🌍 [GhinaTourTravel](https://github.com/rendiwidyanggita/GhinaTourTravel)
-> **Travel Agency Management System** — Centralizing tour operations from package listings to order tracking.
-
-Designed to eliminate the operational chaos of running a small travel agency. Customers can explore tour packages with full itinerary details, facilities, and destinations, then book directly via WhatsApp. Behind the scenes, admins get a unified dashboard to manage packages, destinations, facilities, gallery images, and incoming orders — with advanced filtering by name, invoice, status, and date. A built-in rule-based chatbot lets both customers and admins query order status or package info instantly without navigating between menus.
-
-`Laravel` `PHP` `Blade` `MySQL` `JavaScript`
-
----
-
-## 🔗 Connect
+## 🔗 Links
 
 <!-- 
   PORTFOLIO — Uncomment and replace the URL below once your portfolio site is live:
@@ -91,6 +96,9 @@ Designed to eliminate the operational chaos of running a small travel agency. Cu
 -->
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rendi-widya-anggita)
-<!-- 
-  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rendiwidyanggita)
--->
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rendiwidyanggita)
+
+---
+<div align="center">
+  <sub>Made with ❤️ by Rendi Widya Anggita</sub>
+</div>
