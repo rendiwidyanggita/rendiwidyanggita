@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3500&pause=700&color=1E90FF&center=true&vCenter=true&width=600&lines=Rendi+Widya+Anggita;Debugging+Problems%2C+Building+Solutions)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3500&pause=700&color=1E90FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Rendi;Dedicated+Full-Stack+Developer;Debugging+Problems%2C+Building+Solutions)](https://git.io/typing-svg)
 
 </div>
 
@@ -10,7 +10,7 @@
 
 I'm on a journey to become a full-stack developer — learning by solving real problems with code, one project at a time. I enjoy the process of turning messy workflows into clean, working systems. Currently exploring AI: from tools to the concepts behind how it actually works.
 
-- 🎯 **Focus:** Full-Stack Web Development
+- 🎯 **Focus:** Full-Stack Developer
 - 🌱 **Journey:** PHP → Laravel → JavaScript → React → Next.js & TypeScript
 - 🤖 **Exploring:** AI tools & concepts
 - 📍 **Based in** Purbalingga, Central Java, Indonesia
