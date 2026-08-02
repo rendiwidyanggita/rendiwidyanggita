@@ -12,7 +12,7 @@ I'm on a journey to become a full-stack developer — learning by solving real p
 
 - 🎯 **Focus:** Full-Stack Developer
 - 🌱 **Journey:** PHP → Laravel → JavaScript → React → Next.js & TypeScript
-- 🤖 **Exploring:** AI tools & concepts
+- 🤖 **Exploring:** AI tools & Design System
 - 📍 **Based in** Purbalingga, Central Java, Indonesia
 - 🎓 Telkom University Purwokerto — Informatics Engineering
 - 💼 Open to internship & collaboration opportunities
