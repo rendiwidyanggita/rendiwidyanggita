@@ -10,7 +10,6 @@
 
 I'm on a journey to become a full-stack developer — learning by solving real problems with code, one project at a time. I enjoy the process of turning messy workflows into clean, working systems. Currently exploring AI: from tools to the concepts behind how it actually works.
 
-- 🎯 **Focus:** Full-Stack Developer
 - 🌱 **Journey:** PHP → Laravel → JavaScript → React → Next.js & TypeScript
 - 🤖 **Exploring:** AI tools & Design System
 - 📍 **Based in** Purbalingga, Central Java, Indonesia
