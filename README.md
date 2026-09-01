@@ -80,13 +80,7 @@ I'm on a journey to become a full-stack developer — learning by solving real p
 ---
 
 ## 🔗 Links
-
-<!-- 
-  PORTFOLIO — Uncomment and replace the URL below once your portfolio site is live:
-  [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio-domain.com)
--->
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rendi-widya-anggita)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rendiwidyanggita)
-
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://rendiwidyanggita-portfolio.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rendiwidyanggita)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rendiwidyanggita@gmail.com)
 ---
